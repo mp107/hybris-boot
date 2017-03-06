@@ -533,7 +533,7 @@ case "$DEVICE" in
             -e 's block/platform/msm_sdcc.1/by-name/m9kefs3 mmcblk0p20 ' \
             -e 's block/platform/msm_sdcc.1/by-name/ramdump mmcblk0p21 ' \
             -e 's block/platform/msm_sdcc.1/by-name/rpm mmcblk0p14 ' \
-            -e 's block/platform/msm_sdcc.1/by-name/s1sbl1 mmcblk0p4 ' \
+            -e 's block/platform/msm_sdcc.1/by-name/s1sbl2 mmcblk0p4 ' \
             -e 's block/platform/msm_sdcc.1/by-name/sbl1 mmcblk0p2 ' \
             -e 's block/platform/msm_sdcc.1/by-name/sbl2 mmcblk0p3 ' \
             -e 's block/platform/msm_sdcc.1/by-name/sbl3 mmcblk0p5 ' \
