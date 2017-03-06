@@ -538,7 +538,7 @@ case "$DEVICE" in
             -e 's block/platform/msm_sdcc.1/by-name/sbl2 mmcblk0p3 ' \
             -e 's block/platform/msm_sdcc.1/by-name/sbl3 mmcblk0p5 ' \
             -e 's block/platform/msm_sdcc.1/by-name/system mmcblk0p24 ' \
-            -e 's block/platform/msm_sdcc.1/by-name/TA mmcblk0p16 ' \
+            -e 's block/platform/msm_sdcc.1/by-name/TA mmcblk0p1 ' \
             -e 's block/platform/msm_sdcc.1/by-name/tz mmcblk0p7 ' \
             -e 's block/platform/msm_sdcc.1/by-name/userdata mmcblk0p26 ' \
             "$@"
